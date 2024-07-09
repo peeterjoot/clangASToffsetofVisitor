@@ -1,0 +1,5 @@
+#b OffsetOfVisitor::VisitFieldDecl
+#br dis 1
+b main
+run t2.cpp
+#c

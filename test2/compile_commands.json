@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "/home/pjoot/visitor/test2",
+    "command": "clang++ -c t3.cpp",
+    "file": "t3.cpp"
+  },
+  {
+    "directory": "/home/pjoot/visitor/test2",
+    "command": "clang++ -c t4.cpp",
+    "file": "t4.cpp"
+  }
+]
